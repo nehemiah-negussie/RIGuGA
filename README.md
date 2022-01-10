@@ -1,1 +1,1 @@
-Rectangular Image Generation using Genetic Algorithm (WIP)
+Rectangular Image Generation using Genetic Algorithm
